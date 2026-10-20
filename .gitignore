@@ -2,10 +2,9 @@ node_modules/
 .next/
 dist/
 build/
-.env
-.env.local
 .agents/
 .claude/
 .cursor/
 .devin/
 .idea/
+config.bat

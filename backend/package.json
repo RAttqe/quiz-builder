@@ -6,7 +6,7 @@
   "scripts": {
     "db:push": "prisma db push",
     "db:generate": "prisma generate",
-    "dev": "ts-node-dev src/index.ts"
+    "dev": "node init && ts-node-dev src/index.ts"
   },
   "keywords": [],
   "author": "",
